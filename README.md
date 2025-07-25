@@ -1,12 +1,11 @@
 # Hi there! 👋
 
-My name is Hayu Kurniawan, and I'm a software enthusiast passionate about learning and exploring various programming languages and technologies. Currently, I'm focusing on Python, JavaScript, and PHP to expand my skill set and develop exciting projects.
+My name is Hayu Kurniawan, and I'm a software enthusiast passionate about learning and exploring various programming languages and technologies. Currently, I'm focusing on javaScript, and Golang to expand my skill set and develop exciting projects.
 
 ## About Me
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning about Python, JavaScript, and PHP.
-- 💼 I'm interested in blockchain technology and its applications in various industries.
+- 🌱 I’m currently learning about Javassript and Golang.
 - ⚡ Fun fact: I enjoy experimenting with different programming languages and frameworks to understand their unique features and capabilities.
 
 ## How to Reach Me
