@@ -32,6 +32,9 @@ Tools & Lainnya
 📊 GitHub Stats
 ![Hayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayzxc&show_icons=true&theme=dark)
 
+
+
+
 🌟 Proyek Unggulan
 Berikut adalah beberapa proyek notable saya yang mendemonstrasikan pengembangan fullstack:
 
