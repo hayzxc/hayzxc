@@ -1,15 +1,41 @@
-# Hi there! 👋
+ Hi there! 👋
 
-My name is Hayu Kurniawan, and I'm a software enthusiast passionate about learning and exploring various programming languages and technologies. Currently, I'm focusing on javaScript, and Golang to expand my skill set and develop exciting projects.
+ Halo, Saya Hayu Kurniawan 👋
 
-## About Me
+Fullstack Developer yang berspesialisasi dalam teknologi web modern dan sistem backend.
 
-- 😄 Pronouns: He/Him
-- 🌱 I’m currently learning about Javassript and Golang.
-- ⚡ Fun fact: I enjoy experimenting with different programming languages and frameworks to understand their unique features and capabilities.
+🔧 Tech Stack
 
-## How to Reach Me
+Frontend
+- TypeScript - JavaScript dengan type system untuk aplikasi scalable
+- React - Membangun antarmuka pengguna yang dinamis dan interaktif
+- Tailwind CSS - Framework CSS utility-first untuk pengembangan UI yang cepat
+- Next.js - Framework React fullstack
+- Vite - Build tool dan dev server yang cepat
 
-If you have any questions, suggestions, or just want to connect, feel free to reach out to me via email at Kurniawanhay@gmail.com. I'm always open to new opportunities and collaborations!
+Backend
+- Go (Golang) - Backend service dan API performa tinggi
+- Node.js - JavaScript runtime untuk pengembangan server-side
+- PostgreSQL - Manajemen database relasional
 
-Let's learn and grow together in the world of software development! 🚀
+Tools & Lainnya
+- **Git** - Version control
+- **AWS/GCP** - Platform cloud
+- **REST/GraphQL** - Desain dan pengembangan API
+
+🚀 Sedang Mengerjakan
+- Membangun aplikasi web scalable dengan **React + TypeScript**
+- Mengembangkan API performa tinggi menggunakan **Golang**
+- Mengeksplorasi arsitektur microservices dan containerization
+- Berkontribusi pada proyek open-source
+
+📊 GitHub Stats
+![Hayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayzxc&show_icons=true&theme=dark)
+
+🌟 Proyek Unggulan
+Berikut adalah beberapa proyek notable saya yang mendemonstrasikan pengembangan fullstack:
+
+🔗 Hubungi Saya:
+- Email: [Kurniawanhay@gmail.com](mailto:Kurniawanhay@gmail.com)
+---
+*"Membangun masa depan, satu commit pada satu waktu"* 🚀
